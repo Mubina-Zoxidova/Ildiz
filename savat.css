@@ -1,0 +1,35 @@
+.DIV{
+    display: inline-block;
+    background-color:white ;
+    width: 350px;
+    height: 500px;
+    border-radius: 36px;
+    margin-left: 128px;
+    margin-top: 74px;
+    border: 1px solid #E1E6E9;
+    box-shadow:10px 20px 20px 0 #E1E6E9 ;
+}
+.img{
+    width:300px ;
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.book{
+    padding-left: 20px;
+    padding-top: 30px;
+}
+.books{
+    padding-left: 20px;
+    padding-top: 10px;
+    color: #50B498;
+}
+h3{
+    padding-left: 20px;
+    padding-top: 30px;
+    color: #50B498;
+}
+i{
+    color: #50B498;
+}

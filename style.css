@@ -1,0 +1,171 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+p{
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    display: inline-block;
+}
+.bayroq{
+    border-radius: 100px;
+    width: 30px;
+    height: 25px;
+    margin-left: 800px;
+    margin-top: 10px;
+}
+.a{
+    margin-left: 200px;
+}
+.two{
+    color: black;
+    margin-left: 10px;
+}
+.div{
+    width: 100%;
+    height: 50px;
+    background-color: #50B498;
+    color: black;
+}
+.bir{
+    color:yellow;
+}
+.i{
+  padding-left: 200px;
+    color:#50B498 ;
+}
+.three{
+    padding-left: 10px;
+    font-size: 30px;
+    font-weight: 30px;
+}
+input{
+    margin-left: 300px;
+    width: 300px;
+    height: 25px;
+}
+.class{
+    color: white;
+    background-color: #50B498;
+    border: none;
+    width: 50px;
+    height: 27px;
+    margin-right: 10px;
+    padding-right: 20px;
+}
+i{
+    padding-left: 20px;
+}
+.color{
+    color: white;
+}
+.uch{
+    color:#50B498;
+}
+.kod{
+    background-color: white;
+    border: 1px solid #50B498;
+    padding-right: 10px;
+    height: 27px;
+}
+.ajratish{
+    background-color: #50B498;
+    color: white;
+    border: 1px solid white;
+    padding-right: 10px;
+    height: 27px;
+}
+.solid{
+    background-color: #50B498;
+    border: 1px solid white;
+    padding-right: 10px;
+    color: white;
+    height: 27px;
+}
+.text{
+    border: 2px solid #50B498;
+}
+.ajratuv{
+  background-color: white;  
+}
+i{
+    color: #50B498;
+}
+button{
+    margin-top: 20px;
+    text-decoration-line: none;
+    background-color: white;
+    height: 27px;
+    border: 2px solid #50B498;
+    padding-right: 20px;
+}
+.classs{
+    color: white;
+}
+.oq{
+    text-decoration-line: none;
+   margin-left: 400px;
+}
+.kitob{
+    width: 1000px;
+    height: 500px;
+    border-radius: 0;
+   border: 4px solid #50B498;
+    margin-top: 40px;
+    margin-left: 300px;
+}
+.heart{
+    color: white;
+}
+.DIV{
+    display: inline-block;
+    background-color:white ;
+    width: 350px;
+    height: 500px;
+    border-radius: 36px;
+    margin-left: 128px;
+    margin-top: 74px;
+    border: 1px solid #E1E6E9;
+    box-shadow:10px 20px 20px 0 #E1E6E9 ;
+}
+.img{
+    width:300px ;
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+h3{
+    padding-left: 20px;
+    padding-top: 30px;
+    color: #50B498;
+}
+.book{
+    padding-left: 20px;
+    padding-top: 30px;
+}
+.books{
+    padding-left: 20px;
+    padding-top: 30px;
+    color: #50B498;
+}
+.card{
+    border: 1px solis #50B498;
+    height: 27px;
+    background-color: white;
+    margin-left: 250px;
+}
+.lacation{
+    color: white;
+    margin-right: 10px;
+}
+.brandd{
+    margin-left: 1000px;
+    margin-top: 30px;
+}
+.brand{
+    margin-top: 30px;
+}
